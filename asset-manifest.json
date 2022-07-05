@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rick-and-morty-characters/static/css/main.f3a1fbba.css",
+    "main.js": "/rick-and-morty-characters/static/js/main.c218dc86.js",
+    "static/js/787.237e2a21.chunk.js": "/rick-and-morty-characters/static/js/787.237e2a21.chunk.js",
+    "static/media/logo.svg": "/rick-and-morty-characters/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rick-and-morty-characters/index.html",
+    "main.f3a1fbba.css.map": "/rick-and-morty-characters/static/css/main.f3a1fbba.css.map",
+    "main.c218dc86.js.map": "/rick-and-morty-characters/static/js/main.c218dc86.js.map",
+    "787.237e2a21.chunk.js.map": "/rick-and-morty-characters/static/js/787.237e2a21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3a1fbba.css",
+    "static/js/main.c218dc86.js"
+  ]
+}
