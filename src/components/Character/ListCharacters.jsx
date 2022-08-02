@@ -1,9 +1,7 @@
 import {useState,useEffect } from 'react'
 import {Link} from 'react-router-dom'
 import CardCharacter from './CardCharacter'
-import axios from 'axios'
 import ApiFetch from '../../api/Api'
-import { useQuery } from 'react-query';
 import SearchBar from '../Filters/SearchBar'
 import SelectType from '../Filters/SelectType'
 import Pagination from '../Pagination/ButtonPagination'
@@ -38,7 +36,8 @@ export default function ListCharacters(){
     }
 
     useEffect(() =>{
-        getCharacters()  
+        getCharacters() 
+        console.log('heeey')
     },[name,specie,page])
 
 

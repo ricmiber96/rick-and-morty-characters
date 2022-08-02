@@ -1,5 +1,3 @@
-import axios from "axios";
-
 
 export default class ApiFetch{
 
@@ -21,6 +19,7 @@ export default class ApiFetch{
     }
 
 }
+
 
 
 
