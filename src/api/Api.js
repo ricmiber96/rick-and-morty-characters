@@ -7,7 +7,7 @@ export default class ApiFetch{
                             .then(async (results) => {return results})
                             .catch(error => console.log(error))
         
-        res.results != undefined ? res =  res.results : res = []           
+        res.results !== undefined ? res =  res.results : res = []           
         return res
     }
     
