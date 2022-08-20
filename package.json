@@ -1,5 +1,4 @@
 {
-  "homepage": "https://ricmiber96.github.io/rick-and-morty-characters",
   "name": "rick-and-morty-characters",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +13,7 @@
     "react-query": "^3.34.16",
     "react-router-dom": "^6.2.1",
     "react-scripts": "5.0.0",
+    "serve": "^14.0.1",
     "vercel": "^28.1.0",
     "web-vitals": "^2.1.4"
   },
